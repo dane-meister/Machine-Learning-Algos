@@ -9,7 +9,7 @@ In this repository, you'll find various machine learning algorithms designed for
 - Application of these algorithms in robotics.
 - Use of Python and libraries like PyTorch for robust development.
 
-#### Repository Structure
+### Repository Structure
 Each algorithm in this repository is organized into a separate Jupyter notebook. These notebooks were created using Google Colab, ensuring ease of access and the ability to run these notebooks with minimal setup.
 
 ## Algorithms Included
