@@ -14,14 +14,15 @@ Each algorithm in this repository is organized into a separate Jupyter notebook.
 
 ##### Algorithms Included
 
-**[Nearest Neighbor]**: A simple yet effective algorithm that classifies data points based on the proximity to data points seen during training. Commonly used for its ease of implementation and interpretability in robotic applications.
-**[Linear Regression]**: A foundational algorithm in statistics and machine learning for predicting a continuous outcome variable based on one or more predictor variables. It's especially useful in robotics for understanding and predicting linear relationships.
-**[Multi-Layer Perceptron]**: A class of feedforward artificial neural network that consists of at least three layers of nodes. MLPs are widely used for complex pattern recognition tasks, including speech, image, and motion recognition in robotics.
-**[Monte-Carlo]**: These are computational algorithms that rely on repeated random sampling to obtain numerical results, typically used in robotics for optimization and probabilistic learning in uncertain environments.
-**[Q-Learning]**: A model-free reinforcement learning algorithm used to learn the value of an action in a particular state. It's useful in robotics for making sequences of decisions without a model of the environment.
-**[Deep Q-Network]**: An advanced reinforcement learning algorithm that combines Q-Learning with deep neural networks, allowing the handling of high-dimensional sensory inputs for decision-making in complex robotic tasks.
-**[Reinforce]**: A type of policy gradient method in reinforcement learning, which optimizes the policy directly. It's beneficial in robotics for scenarios where the algorithm needs to learn a complex policy from high-dimensional data.
-**[Actor-Critic]**: These methods utilize both policy and value function to solve reinforcement learning problems. The actor proposes actions given states, and the critic evaluates them, enabling efficient learning in complex robotic control tasks.
+- **[Nearest Neighbor]**: A simple yet effective algorithm that classifies data points based on the proximity to data points seen during training. Commonly used for its ease of implementation and interpretability in robotic applications.
+
+- **[Linear Regression]**: A foundational algorithm in statistics and machine learning for predicting a continuous outcome variable based on one or more predictor variables. It's especially useful in robotics for understanding and predicting linear relationships.
+- **[Multi-Layer Perceptron]**: A class of feedforward artificial neural network that consists of at least three layers of nodes. MLPs are widely used for complex pattern recognition tasks, including speech, image, and motion recognition in robotics.
+- **[Monte-Carlo]**: These are computational algorithms that rely on repeated random sampling to obtain numerical results, typically used in robotics for optimization and probabilistic learning in uncertain environments.
+- **[Q-Learning]**: A model-free reinforcement learning algorithm used to learn the value of an action in a particular state. It's useful in robotics for making sequences of decisions without a model of the environment.
+- **[Deep Q-Network]**: An advanced reinforcement learning algorithm that combines Q-Learning with deep neural networks, allowing the handling of high-dimensional sensory inputs for decision-making in complex robotic tasks.
+- **[Reinforce]**: A type of policy gradient method in reinforcement learning, which optimizes the policy directly. It's beneficial in robotics for scenarios where the algorithm needs to learn a complex policy from high-dimensional data.
+- **[Actor-Critic]**: These methods utilize both policy and value function to solve reinforcement learning problems. The actor proposes actions given states, and the critic evaluates them, enabling efficient learning in complex robotic control tasks.
 
 
 ###### Getting Started
