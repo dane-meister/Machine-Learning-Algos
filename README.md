@@ -25,7 +25,7 @@ Each algorithm in this repository is organized into a separate Jupyter notebook.
 - **[Actor-Critic]**: These methods utilize both policy and value function to solve reinforcement learning problems. The actor proposes actions given states, and the critic evaluates them, enabling efficient learning in complex robotic control tasks.
 
 
-###### Getting Started
+##### Getting Started
 To get started with these notebooks:
 
 **Clone the Repository**
